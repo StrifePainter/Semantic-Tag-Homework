@@ -1,0 +1,41 @@
+Semantic Tagging and Document Outline - 15%
+
+Students will be provided with a site design file. With this, each
+student will use what they have learned regarding basic semantic
+tagging and creating a document outline in HTML. Apply this knowledge
+and best practices to build out a proper semantic page based off of
+the provided design file.
+
+
+Details
+
+- See the image in the 'assets' folder called 'web_1200.jpg'
+- Think about how the different parts of this page might be tagged semantically
+- Think about what the heading names might be, and how they might be arranged in a logical hierarchy (document outline)
+- Write the HTML for this page in the index.html file
+- ONLY HTML is required for this project, no CSS (it is supposed to look very plain in the browser)
+- You will be graded on your ability to use semantic tagging and build a document outline properly
+- I have included a 'hidden' class in CSS for you
+- Use the 'hidden' class to hide any headings that you wish to use for your document outline but that you would not want shown in the browser
+- Additional CSS (styling/colors/fonts/layout) is NOT required
+- Use proper semantic tagging as taught in class (e.g. nav, section, article, aside, etc.)
+- Use divs to group elements in addition to semantic tags
+- Construct a proper document outline as taught in class
+- Use <img> tags to place the images from the 'images' folder in the correct place in your HTML
+- Use <a> tags as required to create links in your HTML
+- Helpful resources are available on FOL under content->links->MDN Resources
+
+
+How to Submit Your Assignment
+
+Submit your zip file with proper naming conventions
+(Lastname_Firstname_Assignmentname.zip) to the FOL’s Submissions Dropbox.
+
+*Don't forget to validate your HTML/Document Outline before submission!
+
+
+Grading Criteria
+
+Following Direction /2
+Semantic Tagging /4
+Proper Document Outline /4
